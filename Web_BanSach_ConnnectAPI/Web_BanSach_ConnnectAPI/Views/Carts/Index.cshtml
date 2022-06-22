@@ -1,0 +1,85 @@
+﻿@model IEnumerable<Web_BanSach_ConnnectAPI.Models.CartItem>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Giỏ hàng</h2>
+
+<p>
+    @Html.ActionLink("Quay lại mua sắm", "Index", "QuanLySachUser")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Tên hàng
+        </th>
+        <th>
+            Giá
+        </th>
+        <th>
+            Ảnh
+        </th>
+        <th>
+            SKU
+        </th>
+        <th>
+            Số lượng
+        </th>
+        <th>
+            Thành tiền
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <form action="/Carts/Update" method="post">
+            <input type="hidden" name="Id" value="@item.Products.Id" />
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Products.Productname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Products.Price)
+            </td>
+            <td>
+                <img src="@Url.Content("~/Content/img/book/" + item.Products.Image)" alt="" style="width:120px">
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Products.SKU)
+            </td>
+            <td>
+                <input type="text" name="Quantity" value="@item.Quantity" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThanhTien)
+            </td>
+            <td>
+                <input type="submit" value="Cập nhật số lượng" class="btn btn-primary"/>
+                <input type="submit" value="Xóa" class="btn btn-danger" name="xoa"/>
+            </td>
+        </tr>
+        </form>
+    }
+        <tr>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+                Tổng tiền:
+            </td>
+            <td>
+                @ViewBag.Tong
+            </td>
+            <td>
+                @Html.ActionLink("Thanh toán", "ThanhToan")
+            </td>
+        </tr>
+</table>

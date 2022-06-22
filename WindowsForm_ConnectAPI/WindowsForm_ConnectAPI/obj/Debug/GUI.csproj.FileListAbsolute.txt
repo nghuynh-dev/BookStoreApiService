@@ -1,0 +1,88 @@
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.Login.resources
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.Properties.Resources.resources
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\WindowsForm_ConnectAPI.exe.config
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\WindowsForm_ConnectAPI.exe
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\WindowsForm_ConnectAPI.pdb
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\BLL.dll
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\Bunifu_UI_v1.52.dll
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\BLL.pdb
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\GUI.csproj.CopyComplete
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.exe
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.pdb
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.QuanLy.resources
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.QuanLyTaiKhoan.resources
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\DAL.dll
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\Newtonsoft.Json.dll
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\DAL.pdb
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\DAL.dll.config
+D:\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\Newtonsoft.Json.xml
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\WindowsForm_ConnectAPI.exe.config
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\WindowsForm_ConnectAPI.exe
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\WindowsForm_ConnectAPI.pdb
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\BLL.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\DAL.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\Newtonsoft.Json.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\System.Net.Http.Formatting.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\BLL.pdb
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\DAL.pdb
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\DAL.dll.config
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\Newtonsoft.Json.xml
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.Login.resources
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.Properties.Resources.resources
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.QuanLy.resources
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.QuanLyTaiKhoan.resources
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\GUI.csproj.CopyComplete
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.exe
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.pdb
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.Login.resources
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.Properties.Resources.resources
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.QuanLy.resources
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.QuanLySach.resources
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.QuanLyTaiKhoan.resources
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.exe
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.pdb
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\WindowsForm_ConnectAPI.exe.config
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\WindowsForm_ConnectAPI.exe
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\WindowsForm_ConnectAPI.pdb
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\BLL.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\DAL.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\BLL.pdb
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\DAL.pdb
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\DAL.dll.config
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\WindowsForm_ConnectAPI.exe.config
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\WindowsForm_ConnectAPI.exe
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\WindowsForm_ConnectAPI.pdb
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\BLL.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\DAL.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\BLL.pdb
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\DAL.pdb
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\DAL.dll.config
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.Login.resources
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.Properties.Resources.resources
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.QuanLy.resources
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.QuanLySach.resources
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.QuanLyTaiKhoan.resources
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.exe
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\obj\Debug\WindowsForm_ConnectAPI.pdb

@@ -1,0 +1,82 @@
+﻿@model Web_BanSach_ConnnectAPI.Models.Products
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<h2>Danh sách sản phẩm</h2>
+
+<p>
+    @Html.ActionLink("Thêm mới sản phẩm", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Tên sản phẩm
+        </th>
+        <th>
+            Mô tả
+        </th>
+        <th>
+            Giá
+        </th>
+        <th>
+            Hình ảnh sản phẩm
+        </th>
+        <th>
+            SKU
+        </th>
+        <th>
+            Tình trạng
+        </th>
+        <th>
+            Số lượng còn lại
+        </th>
+        <th>
+            Loại sách
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in ViewBag.ds)
+    {
+        <tr>
+            <td>
+                @item.Productname
+            </td>
+            <td>
+                @item.Description
+            </td>
+            <td>
+                @item.Price
+            </td>
+            <td>
+                <img src="@Url.Content("~/Content/img/book/" + item.Image)" width="120px" />
+            </td>
+            <td>
+                @item.SKU
+            </td>
+            <td>
+                @item.Status
+            </td>
+            <td>
+                @item.Stock
+            </td>
+            <td>
+                @foreach (var item1 in ViewBag.type)
+                {
+                    if (item.ProductTypeId == item1.Id)
+                    {
+                        @item1.Name
+                    }
+                }
+            </td>
+
+            <td>
+                @Html.ActionLink("Chỉnh sửa", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Chi tiết", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Xóa", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>

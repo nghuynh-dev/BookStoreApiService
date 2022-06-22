@@ -1,0 +1,51 @@
+D:\FullWeb\WindowsForm_ConnectAPI\DAL\bin\Debug\DAL.dll.config
+D:\FullWeb\WindowsForm_ConnectAPI\DAL\bin\Debug\DAL.dll
+D:\FullWeb\WindowsForm_ConnectAPI\DAL\bin\Debug\DAL.pdb
+D:\FullWeb\WindowsForm_ConnectAPI\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\FullWeb\WindowsForm_ConnectAPI\DAL\bin\Debug\System.Net.Http.Extensions.dll
+D:\FullWeb\WindowsForm_ConnectAPI\DAL\bin\Debug\System.Net.Http.Formatting.dll
+D:\FullWeb\WindowsForm_ConnectAPI\DAL\bin\Debug\System.Net.Http.Primitives.dll
+D:\FullWeb\WindowsForm_ConnectAPI\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\FullWeb\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\FullWeb\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\FullWeb\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\FullWeb\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.dll
+D:\FullWeb\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.pdb
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\DAL\bin\Debug\DAL.dll.config
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\DAL\bin\Debug\DAL.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\DAL\bin\Debug\DAL.pdb
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\DAL\bin\Debug\Newtonsoft.Json.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\DAL\bin\Debug\System.Net.Http.Extensions.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\DAL\bin\Debug\System.Net.Http.Formatting.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\DAL\bin\Debug\System.Net.Http.Primitives.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\DAL\bin\Debug\Newtonsoft.Json.xml
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.pdb
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\bin\Debug\DAL.dll.config
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\bin\Debug\DAL.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\bin\Debug\DAL.pdb
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.pdb
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\bin\Debug\DAL.dll.config
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\bin\Debug\DAL.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\bin\Debug\DAL.pdb
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\DAL\obj\Debug\DAL.pdb

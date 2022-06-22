@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "ThanhToan";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Thanh toán</h2>
+
+<form action="/Carts/ThanhToanHoaDon" method="post">
+    <p>Mã bưu điện</p>
+    <input type="text" name="code" class="form-control" />
+    <p>Địa chỉ nhận</p>
+    <input type="text" name="address" class="form-control" />
+    <p>Số điện thoại</p>
+    <input type="text" name="phone" class="form-control" />
+    <br />
+    <br />
+    <input type="submit" value="Thanh toán" class="btn btn-primary"/>
+</form>

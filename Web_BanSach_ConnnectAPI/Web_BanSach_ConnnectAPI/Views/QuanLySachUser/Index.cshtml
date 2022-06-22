@@ -1,0 +1,138 @@
+﻿@model Web_BanSach_ConnnectAPI.Models.Products
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>Danh sách sản phẩm</h2>
+
+@*<table class="table">
+    <tr>
+        <th>
+            Tên sản phẩm
+        </th>
+        <th>
+            Mô tả
+        </th>
+        <th>
+            Giá
+        </th>
+        <th>
+            Hình ảnh sản phẩm
+        </th>
+        <th>
+            SKU
+        </th>
+        <th>
+            Tình trạng
+        </th>
+        <th>
+            Số lượng còn lại
+        </th>
+        <th>
+            Loại sách
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in ViewBag.ds)
+    {
+        <form action="/Carts/Add" method="post">
+        <tr>
+
+            <td>
+                @item.Productname
+            </td>
+            <td>
+                @item.Description
+            </td>
+            <td>
+                @item.Price
+            </td>
+            <td>
+                <img src="@Url.Content("~/Content/img/book/" + item.Image)" width="120px" />
+            </td>
+            <td>
+                @item.SKU
+            </td>
+            <td>
+                @item.Status
+            </td>
+            <td>
+                @item.Stock
+            </td>
+            <td>
+                @foreach (var item1 in ViewBag.type)
+                {
+                    if (item.ProductTypeId == item1.Id)
+                    {
+                        @item1.Name
+                    }
+                }
+            </td>
+            <td>
+                <input type="submit" value="Đặt hàng" />
+            </td>
+        </tr>
+        </form>
+    }
+
+</table>*@
+
+<div class="container d-flex justify-content-center mt-50 mb-50">
+
+    <div class="row">
+        @foreach (var item in ViewBag.ds)
+        {
+        <form action="/Carts/Add" method="post">
+            <input type="hidden" name="Id" value="@item.Id" />
+            <input type="hidden" name="Quantity" value="1" />
+            <div class="col-md-12 col-lg-4 mb-4 mb-lg-0 mt-0">
+                <div class="card" style="width:600px">
+                    <img src="@Url.Content("~/Content/img/book/" + item.Image)" alt="" style="width:100%">
+                    <div class="card-body">
+                        <h6>@item.Productname</h6>
+                        <p class="price"> @item.Price</p>
+                        <p>@item.Description</p>
+                        <p class="price">Số lượng còn: @item.Stock</p>
+                        <input type="submit" value="Đặt hàng" class="btn btn-primary" style="margin-bottom:10px" />
+                    </div>
+                </div>
+            </div>
+        </form>
+                }
+        </div>
+    <br/>
+</div>
+
+<style>
+    .card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        max-width: 300px;
+        margin: auto;
+        text-align: center;
+        font-family: arial;
+        margin-bottom:10px;
+    }
+
+    .price {
+        color: grey;
+        font-size: 15px;
+    }
+
+    .card input {
+        border: none;
+        outline: 0;
+        padding: 12px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+        font-size: 18px;
+    }
+
+        .card input:hover {
+            opacity: 0.7;
+        }
+</style>

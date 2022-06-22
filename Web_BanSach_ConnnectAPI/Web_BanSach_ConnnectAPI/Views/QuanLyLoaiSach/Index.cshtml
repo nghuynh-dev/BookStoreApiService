@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Web_BanSach_ConnnectAPI.Models.ProductTypes>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Quản lý loại sách</h2>
+
+<p>
+    @Html.ActionLink("Thêm mới loại sách", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Tên loại sách
+        </th>
+        <th>
+            Tình trạng
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+        <td>
+            @Html.ActionLink("Chỉnh sửa", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Chi tiết", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Xóa", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,83 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Danh sách tài khoản</h2>
+
+<p>
+    @Html.ActionLink("Thêm mới User", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            Tên đăng nhập
+        </th>
+        <th>
+            Mật khẩu
+        </th>
+        <th>
+            Email
+        </th>
+        <th>
+            Số điện thoại
+        </th>
+        <th>
+            Địa chỉ
+        </th>
+        <th>
+            Họ tên đầy đủ
+        </th>
+        <th>
+            Admin
+        </th>
+        <th>
+            Avatar
+        </th>
+        <th>
+            Tình trạng
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in ViewBag.ds)
+    {
+        <tr>
+            <td>
+                @item.Username
+            </td>
+            <td>
+                @item.Password
+            </td>
+            <td>
+                @item.Email
+            </td>
+            <td>
+                @item.Phone
+            </td>
+            <td>
+                @item.Address
+            </td>
+            <td>
+                @item.Fullname
+            </td>
+            <td>
+                @item.IsAdmin
+            </td>
+            <td>
+                <img src="@Url.Content("~/Content/img/user" + item.Avatar)"  width="120px"/>
+            </td>
+            <td>
+                @item.Status
+            </td>
+
+            <td>
+                @Html.ActionLink("Chỉnh sửa", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Chi tiết", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Xóa", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+        }
+</table>

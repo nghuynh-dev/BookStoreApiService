@@ -1,0 +1,104 @@
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\BLL.dll
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\BLL.pdb
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Helpers.dll
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Mvc.dll
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Razor.dll
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.dll
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.Razor.dll
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Net.Http.Formatting.dll
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Helpers.xml
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Mvc.xml
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Razor.xml
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.xml
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.dll
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.pdb
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\DAL.dll
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\Newtonsoft.Json.dll
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\DAL.pdb
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\DAL.dll.config
+D:\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\Newtonsoft.Json.xml
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\BLL.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\BLL.pdb
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\DAL.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Helpers.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Mvc.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Razor.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Net.Http.Formatting.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\DAL.pdb
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\DAL.dll.config
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Helpers.xml
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Mvc.xml
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Razor.xml
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.xml
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\bin\Debug\Newtonsoft.Json.xml
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.dll
+E:\HocKi2Nam4\FullWeb\FullWeb\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.pdb
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\BLL.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\BLL.pdb
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\DAL.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Helpers.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\DAL.pdb
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\DAL.dll.config
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Helpers.xml
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.dll
+C:\Users\Phan Van Dai\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.pdb
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\BLL.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\BLL.pdb
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\DAL.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Helpers.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Razor.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\DAL.pdb
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\DAL.dll.config
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Helpers.xml
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.dll
+C:\Users\huynh\Downloads\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\WindowsForm_ConnectAPI\BLL\obj\Debug\BLL.pdb
